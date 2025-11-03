@@ -36,8 +36,8 @@ The main goal of this assignment was to design, implement, and host a fully work
 
 ```bash
 # Clone the project
-git clone https://github.com/smusuku/lewis-tact-toe
-cd Lewis-Tac-Toe
+git clone https://github.com/smusuku/lewis-tac-toe
+cd lewis-tac-toe
 
 # Install dependencies
 npm install
