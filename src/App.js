@@ -84,7 +84,7 @@ export default function Game() {
 
   return (
     <div className="game">
-      <h1>Lewis-Tac-Toe</h1>
+      <h1>Lewis-Tac-Azure</h1>
       <p1>Created by Sahithi Chaitanya Musuku </p1>
       <div className="game-board">
         <Board xIsNext={xIsNext} squares={currentSquares} onPlay={handlePlay} />
